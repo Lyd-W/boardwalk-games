@@ -69,6 +69,7 @@ h2 {
     color: white;
 }
 
+
 /* Navbar */
 
 #navbar {
@@ -101,6 +102,18 @@ h2 {
 #new-games .card,
 #fav-games .card {
     border: none;
+}
+
+/* Student Discount */
+#student-discount {
+    background-color: var(--highlight-color);
+    color: white;
+    max-width: 300px;
+}
+
+/* Events section */
+#events .table {
+    font-size: 12px;
 }
 
 /* Footer / Contact */
